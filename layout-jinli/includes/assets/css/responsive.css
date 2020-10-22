@@ -48,7 +48,6 @@ MAx width 1160px
 		position: unset;
 		left: unset;
 		margin: 0 10px;
-      width: 192px;
 	}
 	div.footer-wrapper.white-text .row.mb0 > .col.l4.m12.s12 .footer-logo .t1-logo {
 		position: unset;
@@ -665,7 +664,10 @@ Max width 850 Breakpoint
 		justify-content: center;
 	}
 	main.promotion-wrapper ul.promo-tabs li {
-		padding: 0 15px !important;
+		padding: 0 8px !important;
+	}
+	.promo-modal-content{
+		width: 80%;
 	}
 
 	/* --------------------------------------------------------------------
@@ -897,10 +899,11 @@ Max width 600px
     	margin: 0 5px;
 	}
 	nav a.brand-logo{
-    	left: 25%;
+    	/* left: 25%; */
 	}
 	nav a.brand-logo img{
-    	padding-top: 10px;
+		padding-top: 10px;
+		height: 50px;
 	}
 	/* -----------------
 	Footer Cookies 
@@ -969,8 +972,13 @@ Max width 600px
 	/* -----------------
 	Tab List
 	----------------- */
+	main.promotion-wrapper ul.promo-tabs{
+		flex-wrap: wrap;
+	}
 	main.promotion-wrapper ul.promo-tabs li {
 		padding: 0 !important;
+		width: 50%;
+		margin-bottom: 10px;
 	}
 
 
