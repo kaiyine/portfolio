@@ -1,40 +1,81 @@
-.homebanner{
-	background: #fff center no-repeat;
-	height: 40vh;
+a:hover{
+	text-decoration: none;
 }
-.homebanner:after{
-	content: '';
-	display: block;
-	height: 90%;
-	width: 90%;
-	position: absolute;
-	top: 5%;
-	left: 5%;
-	border: #fff 15px solid;
+img{
+	max-width: 100%;
+}
+header{
+	background: #fff;
+}
+header a{
+	color: #5b616f;
+}
+.area-1{
+	background: #e3eded;
+	padding: 80px 0 60px;
+}
+.area-2{
+	background: #ffd7d7;
+	padding: 30px 0 60px;
+}
+.area-3{
+	background: #ddd;
+	padding: 30px 0 30px;
+}
+.area-3 li{
+	list-style: circle;
+}
+h3{
+	border-bottom: 1px solid #727272;
+	padding-bottom: .7rem;
+	margin-bottom: 1rem;
+}
+.homebox{
+	background: rgba(255, 255, 255, 0.6);
+	border: 1px solid #d9d9d9;
+	color: #212529;
+	box-shadow: 3px 3px 3px rgb(0 0 0 / 0.2);
+	padding: 10px;
 	transition: all .3s;
-	opacity: .5;
+	max-height: 300px;
+	margin-bottom: 10px;
 }
-.homebanner:hover{
-	text-decoration: underline;
+.homebox:hover{
+	box-shadow: 3px 3px 3px rgb(0 0 0 / 0.5);
 }
-.homebanner:hover:after{
-	height: 70%;
-	width: 70%;
-	top: 15%;
-	left: 15%;
-	border: #fff 10px solid;
+.homebox .imgbox{
+	overflow: hidden;
+	max-height: 225px;
+}
+.homebox img{
+	max-width: 100%;
+	margin: 0 auto;
+	transition: all .3s;
+	transform-origin: center 0;
+}
+.homebox:hover img{
 	opacity: 1;
+	transform: scale(1.5);
 }
-.home-1{
-	background-image: url(../images/home_1.jpg);
-	background-size: cover;
+.homebox p{
+	border-bottom: 1px solid #d9d9d9;
+	padding-bottom: 8px;
+	display: flex;
 }
-.home-2{
-	background-image: url(../images/home_1.jpg);
-	background-size: cover;
+.homebox p .fas{
+	color: #999;
+	font-size: small;
+	margin-top: 5px;
+	margin-left: auto;
 }
 @media (min-width: 768px){
-	.homebanner{
-		height: 90vh;
+	.homebox{
+		height: 300px;
+	}
+	.homebox img{
+		opacity: .7;
+	}
+	.homebox .imgbox{
+		height: 225px;
 	}
 }
