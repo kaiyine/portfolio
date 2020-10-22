@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <link rel="shortcut icon" href="favicon2.ico" type="image/x-icon" />
+      <link href="includes/assets/css/material-icon.css" rel="stylesheet">
+      <link type="text/css" rel="stylesheet" href="includes/assets/css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="includes/assets/css/casicons-styles.css"/>
+      <link type="text/css" rel="stylesheet" href="includes/assets/css/animate.css"/>
+      <link type="text/css" rel="stylesheet" href="includes/assets/css/swiper.min.css"/>
+      <link type="text/css" rel="stylesheet" href="includes/assets/css/style.css?=v0.177"/>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta name="renderer" content="webkit|ie-stand|ie-comp">
+      <title>切版展示-玖宝国际</title>
+      
+      <meta name="description" content=""> 
+      <meta name="keywords" content="">
+    </head>
+    <body>
+      
+<header id="header-wrapper">
+	<div class="navbar-fixed">
+	<nav>
+	    <div class="nav-wrapper">
+	      <a href="javascript: void(0);" class="brand-logo"><img class="responsive-img" src="includes/assets/images/logo-9b.png?v=0.0.1"></a>
+	      <a href="javascript: void(0);" data-target="mobile-demo" class="sidenav-trigger show-on-medium-and-up"><img src="includes/assets/images/icons/menu.png"></a>
+	    </div>
+	</nav>
+	</div>
+	<ul class="sidenav" id="mobile-demo">
+		<li class="login-reg-wrapper">
+      		<p><img class="responsive-img" src="includes/assets/images/logo-9b.png?=v0.1"></p>
+			<div id="_player_login_area" class="loginbox">
+        <div class="is-mobile">
+          <span class="btn-wrapper">
+            <button class="login_btn dark-red-bg white">登录</button>
+            <button class="reg_btn">注册</button>
+          </span>
+        </div>
+			</div>
+      	</li>
+	      <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-home.png"></div><span>首页</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-promotion.png"></div><span>优惠活动</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-corp.png"></div><span>关系企业</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-logo9b.png?v2"></div><span>关于我们</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-download.png"></div><span>游戏下载</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-mail.png"></div><span>经理邮箱</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-livechat.png"></div><span>在线客服</span></a></li>
+        <li class="s-nav-item"><a href="javascript: void(0);" class="waves-effect"><div><img src="includes/assets/images/icons/icon-phone.png"></div><span>电话回拨</span></a></li>
+	</ul>
+</header>
+<div class="call-back-phone">
+  <a class="close" href="javascript:closeSide()">X</a>
+  <p>填写手机号，客服立即回电</p>
+<!--      <form method="POST" action="" role="form" id="phonecall">-->
+    <input type="text" name="number" id="phonenumber" class="form-control" placeholder="请输入11或12位正确号码" value="" aria-required="true" aria-invalid="false">
+    <button id="phone-btn" type="submit">确认</button>
+<!--      </form>-->
+</div>
+<div class="backcut" onclick="closeSide()"></div>
+<script type="text/javascript">
+  function phone(){
+    $('.call-back-phone').fadeIn();
+    $('.backcut').fadeIn();
+  }
+  function closeSide(){
+    $('.call-back-phone').fadeOut();
+    $('.backcut').fadeOut();
+  }
+  function callback_after_build_login_form(){
+    $('.phone-login').hide();
+  }
+</script>
+      <main>
+      
+        <!-- SLIDER SECTION -->
+        <div class="section slider-wrapper">
+          <div class="swiper-container swiper-container-top">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide"><a href="javascript: void(0);"><img class="responsive-img" src="includes/assets/images/banner/m-9888gift.png"></a></div>
+              <div class="swiper-slide"><a href="javascript: void(0);"><img class="responsive-img" src="includes/assets/images/banner/m-memeber20%25.jpg"></a></div>
+              <div class="swiper-slide"><a href="javascript: void(0);"><img class="responsive-img" src="includes/assets/images/banner/m-return1.1%25.jpg"></a></div>
+            </div>
+            <!-- 分页器 -->
+            <div class="swiper-pagination swiper-pagination-top"></div>
+            <!--右箭头-->
+            <div class="swiper-button-next swiper-button-next-top"></div>
+            <a href="javascript: void(0);" class="promotion-btn modal-trigger"></a>
+          </div>
+        </div>
+        
+        <!-- ANNOUCEMENT SECTION -->
+        <div class="announcement-wrapper">
+          <div class="_public_news"></div>
+        </div>
+        
+        <div class="home-game-main">
+          <ul class="tabs home-game-nav">
+            <li class="tab"><a href="#live-casino"><img src="includes/assets/images/thumbnail/nav_live-s.png"><p>真人娱乐</p></a></li>
+            <li class="tab"><a href="#slots"><img src="includes/assets/images/thumbnail/nav_slot-s.png"><p>电子游戏</p></a></li>
+            <li class="tab"><a href="#fishing"><img src="includes/assets/images/thumbnail/nav_fish-s.png"><p>捕鱼游戏</p></a></li>
+            <li class="tab"><a href="#ky-game"><img src="includes/assets/images/thumbnail/nav_poker-s.png"><p>棋牌游戏</p></a></li>
+            <li class="tab"><a href="#sport"><img src="includes/assets/images/thumbnail/nav_sports-s.png"><p>体育投注</p></a></li>
+            <li class="tab"><a href="#lottery"><img src="includes/assets/images/thumbnail/nav_lottery-s.png"><p>彩票投注</p></a></li>
+          </ul>
+          <div>
+        <!-- LIVE CASINO GAMES SECTION -->
+            <div class="home-game-wrapper style-1" id="live-casino">
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/live_ag.png">
+                  <p>实时荷官互动，360度旋转咪牌</p>
+                  <p class="title">AG娱乐城<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/live_sun.png">
+                  <p>美女主播快速投注，专享真实体验</p>
+                  <p class="title">申博娱乐城<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/live_allbet.png">
+                  <p>独有超级奇乐 更刺激更紧凑</p>
+                  <p class="title">欧博娱乐城<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+            </div>
+        <!-- SLOT GAMES SECTION -->
+            <div class="home-game-wrapper style-2" id="slots">
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_AG.png">
+                  <p>AG电子游戏</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_yoplay.jpg">
+                  <p>YOPLAY电子游戏</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_sunbet.jpg">
+                  <p>申博电子游戏</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_mg.jpg">
+                  <p>MG电子游戏</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_pt.jpg">
+                  <p>PT电子游戏</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/slot_ttg.jpg">
+                  <p>TTG电子游戏</p>
+                </a>
+              </div>
+            </div>
+        <!-- FISHING GAMES SECTION -->
+            <div class="home-game-wrapper style-1" id="fishing">
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/fishing_ag.jpg">
+                  <p>捕鱼抢奖金 100%完美街机移植</p>
+                  <p class="title">AG 捕鱼王<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/fishing_pt.jpg">
+                  <p>爽快射击轻松一炮爆万金</p>
+                  <p class="title">PT深海大赢家<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+            </div>
+        <!-- KY GAMES SECTION -->
+            <div class="home-game-wrapper style-2" id="ky-game">
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_7.jpg">
+                  <p>百人牛牛</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_2.jpg">
+                  <p>炸金花</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_4.jpg">
+                  <p>抢庄牛牛</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_6.jpg">
+                  <p>通比牛牛</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_1.jpg">
+                  <p>德州扑克</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_5.jpg">
+                  <p>斗地主</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_3.jpg">
+                  <p>极速炸金花</p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img src="includes/assets/images/thumbnail/ky_8.jpg">
+                  <p>抢庄牌九</p>
+                </a>
+              </div>
+            </div>
+        <!-- SPORT GAMES SECTION -->
+            <div class="home-game-wrapper style-1" id="sport">
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/sport_ag-mobile.jpg">
+                  <p>高赔率 玩法多 结算快</p>
+                  <p class="title">AG体育<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/sport_ipm.jpg">
+                  <p>众多赛事，一应俱全，全方位体验</p>
+                  <p class="title">IPM体育<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+            </div>
+        <!-- LOTTERY GAMES SECTION -->
+            <div class="home-game-wrapper style-1" id="lottery">
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/lottory_9b.jpg">
+                  <p>便利买彩开心中彩</p>
+                  <p class="title">玖宝彩票<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+              <div>
+                <a href="javascript: void(0);">
+                  <img class="responsive-img" src="includes/assets/images/thumbnail/lottory_vr.jpg">
+                  <p>速领彩票，中奖快人一步</p>
+                  <p class="title">竞速彩票<span class="red-play">立即游戏</span></p>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="home-footer">
+          <ul class="footer-links">
+            <li class="b-r-1"><a href="javascript: void(0);">关于我们</a></li>
+            <li class="b-r-1"><a href="javascript: void(0);">协议条款</a></li>
+            <li><a href="javascript: void(0);">责任博彩</a></li>
+            <li class="b-r-1"><a href="javascript: void(0);">常见问题</a></li>
+            <li><a href="javascript: void(0);">经理邮箱</a></li>
+          </ul>
+          <p>COPYRIGHT 2019 THE9 ALL RIGHTS RESERVED</p>
+        </div>
+      </main>
+  
+
+      <script type="text/javascript" src="includes/assets/js/jquery.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/materialize.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/imagesloaded.pkgd.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/isotope.pkgd.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/swiper.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/wow.min.js"></script>
+      <script type="text/javascript" src="includes/assets/js/custom-script.js?=v02.61"></script>
+<script type="text/javascript">
+  //Slider
+  var mySwiper = new Swiper('.swiper-container-top', {
+    loop: true,
+    slidesPerView: 1,
+    autoplay: {
+      delay: 4000,
+      disableOnInteraction: false,
+    },
+    // 分页器
+    pagination: {
+      el: '.swiper-pagination-top',
+      type: 'custom',
+      renderCustom: function (swiper, current, total) {
+        return current+'/'+total;
+      }
+    },
+    navigation: {
+      nextEl: '.swiper-button-next-top',
+    },
+  });
+
+  $( document ).ready(function() {
+    $('.swiper-slide a.location').click(function() { window.location.href = $(this).attr("href"); });
+    $('.swiper-slide a.blank').click(function() { window.open($(this).attr("href"),'_blank'); });
+  });
+</script>
+
+
+<style>
+.player_announcement_popup_container.modal {
+  margin: 10% !important;
+  width: 80% !important;
+}
+</style>
+    </body>
+  </html>

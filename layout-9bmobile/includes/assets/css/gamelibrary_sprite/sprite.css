@@ -1,0 +1,49 @@
+.bg-Wild_West {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -0 -0;
+}
+
+.bg-All_American {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -227px -0;
+}
+
+.bg-CashGrab {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -0 -190px;
+}
+
+.bg-Deuces_Wild {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -227px -190px;
+}
+
+.bg-Jacks_or_Better {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -454px -0;
+}
+
+.bg-Joker_Poker {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -454px -190px;
+}
+
+.bg-JumpForGold {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -0 -380px;
+}
+
+.bg-Space_Invasion {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -227px -380px;
+}
+
+.bg-Lucky_Cherry {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -454px -380px;
+}
+
+.bg-Pirate_Treasure {
+    width: 227px; height: 190px;
+    background: url('css_sprites.png') -681px -0;
+}

@@ -1,0 +1,598 @@
+.bg-AcesandEights1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -0;
+}
+.bg-AcesandEights5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -950px;
+}
+.bg-AcesandEights10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -190px;
+}
+.bg-AcesandEights50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -190px;
+}
+.bg-AcesandEights100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -0;
+}
+.bg-AllAmericanPoker1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -190px;
+}
+.bg-AllAmericanPoker5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -380px;
+}
+.bg-AllAmericanPoker10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -380px;
+}
+.bg-AllAmericanPoker50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -380px;
+}
+.bg-AllAmericanPoker100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -0;
+}
+.bg-AmericanBaccarat {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -190px;
+}
+.bg-Baccarat3HZC {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -380px;
+}
+.bg-Blackjack3H {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -570px;
+}
+.bg-Blackjack3HDoubleExposure {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -570px;
+}
+.bg-BonusDuecesWild1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -570px;
+}
+.bg-BonusDuecesWild5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -570px;
+}
+.bg-BonusDuecesWild10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -0;
+}
+.bg-BonusDuecesWild50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -190px;
+}
+.bg-BonusDuecesWild100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -380px;
+}
+.bg-BonusPoker1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -570px;
+}
+.bg-BonusPoker5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -760px;
+}
+.bg-BonusPoker10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -760px;
+}
+.bg-BonusPoker50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -760px;
+}
+.bg-BonusPoker100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -760px;
+}
+.bg-CaribbeanHoldem {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -760px;
+}
+.bg-CaribbeanStud {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -0;
+}
+.bg-DoubleBonusPoker1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -190px;
+}
+.bg-DoubleBonusPoker5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -380px;
+}
+.bg-DoubleBonusPoker10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -570px;
+}
+.bg-DoubleBonusPoker50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -760px;
+}
+.bg-DoubleBonusPoker100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -950px;
+}
+.bg-DoubleDoubleBonusPoker1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -950px;
+}
+.bg-DoubleDoubleBonusPoker5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -950px;
+}
+.bg-DoubleDoubleBonusPoker10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -950px;
+}
+.bg-DoubleDoubleBonusPoker50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -950px;
+}
+.bg-DoubleDoubleBonusPoker100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -0;
+}
+.bg-DuecesWild1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -1140px;
+}
+.bg-DuecesWild5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -1140px;
+}
+.bg-DuecesWild10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -1140px;
+}
+.bg-DuecesWild50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -1140px;
+}
+.bg-DuecesWild100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -1140px;
+}
+.bg-EURoulette {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -1140px;
+}
+.bg-JacksorBetter1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -0;
+}
+.bg-JacksorBetter5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -190px;
+}
+.bg-JacksorBetter10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -380px;
+}
+.bg-JacksorBetter50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -570px;
+}
+.bg-JacksorBetter100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -760px;
+}
+.bg-JokerPoker1Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -950px;
+}
+.bg-JokerPoker5Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -1140px;
+}
+.bg-JokerPoker10Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -1330px;
+}
+.bg-JokerPoker50Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -1330px;
+}
+.bg-JokerPoker100Hand {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -1330px;
+}
+.bg-SG5Mariachis {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -1330px;
+}
+.bg-SG12Zodiacs {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -1330px;
+}
+.bg-SGAllForOne {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -1330px;
+}
+.bg-SGArcaneElements {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1362px -1330px;
+}
+.bg-SGArcticWonders {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -0;
+}
+.bg-SGAzlandsGold {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -190px;
+}
+.bg-SGBarnstormerBucks {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -380px;
+}
+.bg-SGBikiniIsland {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -570px;
+}
+.bg-SGBirdOfThunder {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -760px;
+}
+.bg-SGBlackbeardsBounty {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -950px;
+}
+.bg-SGBombsAway {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -1140px;
+}
+.bg-SGBuggyBonus {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1589px -1330px;
+}
+.bg-SGCakeValley {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -0 -1520px;
+}
+.bg-SGCarnivalCash {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -227px -1520px;
+}
+.bg-SGCashosaurus {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -454px -1520px;
+}
+.bg-SGCashReef {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -681px -1520px;
+}
+.bg-SGCoyoteCrash {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -908px -1520px;
+}
+.bg-SGDiscoFunk {
+    width: 227px; height: 190px;
+    background: url('hb1.jpg?v2') -1135px -1520px;
+}
+.bg-SGDoubleODollars {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -0;
+}
+.bg-SGDragonsRealm {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -950px;
+}
+.bg-SGDragonsThrone {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -190px;
+}
+.bg-SGDrFeelgood {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -190px;
+}
+.bg-SGEgyptianDreams {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -0;
+}
+.bg-SGFaCaiShen {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -190px;
+}
+.bg-SGFenghuang {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -380px;
+}
+.bg-SGFireRooster {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -380px;
+}
+.bg-SGFlyingHigh {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -380px;
+}
+.bg-SGFourDivineBeasts {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -0;
+}
+.bg-SGFrontierFortunes {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -190px;
+}
+.bg-SGGalacticCash {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -380px;
+}
+.bg-SGGangsters {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -570px;
+}
+.bg-SGGoldenUnicorn {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -570px;
+}
+.bg-SGGoldRush {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -570px;
+}
+.bg-SGGrapeEscape {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -570px;
+}
+.bg-SGHauntedHouse {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -0;
+}
+.bg-SGIndianCashCatcher {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -190px;
+}
+.bg-SGJugglenaut {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -380px;
+}
+.bg-SGJungleRumble {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -570px;
+}
+.bg-SGKanesinferno {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -760px;
+}
+.bg-SGKingTutsTomb {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -760px;
+}
+.bg-SGKnockoutFootball {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -760px;
+}
+.bg-SGLittleGreenMoney {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -760px;
+}
+.bg-SGLondonHunter {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -760px;
+}
+.bg-SGMonsterMashCash {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -0;
+}
+.bg-SGMrBling {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -190px;
+}
+.bg-SGMummyMoney {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -380px;
+}
+.bg-SGMysticFortune {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -570px;
+}
+.bg-SGOceansCall {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -760px;
+}
+.bg-SGPamperMe {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -950px;
+}
+.bg-SGPandaPanda {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -950px;
+}
+.bg-SGPiratesPlunder {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -950px;
+}
+.bg-SGPoolShark {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -950px;
+}
+.bg-SGPresto {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -950px;
+}
+.bg-SGPuckerUpPrince {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -0;
+}
+.bg-SGQueenOfQueens243 {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -1140px;
+}
+.bg-SGQueenOfQueens1024 {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -1140px;
+}
+.bg-SGRideEmCowboy {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -1140px;
+}
+.bg-SGRodeoDrive {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -1140px;
+}
+.bg-SGRollingRoger {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -1140px;
+}
+.bg-SGRomanEmpire {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -1140px;
+}
+.bg-SGRuffledUp {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -0;
+}
+.bg-SGSantasVillage {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -190px;
+}
+.bg-SGScruffyScallywags {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -380px;
+}
+.bg-SGShaolinFortunes100 {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -570px;
+}
+.bg-SGShaolinFortunes243 {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -760px;
+}
+.bg-SGShogunsLand {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -950px;
+}
+.bg-SGSirBlingalot {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -1140px;
+}
+.bg-SGSkysTheLimit {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -1330px;
+}
+.bg-SGSOS {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -1330px;
+}
+.bg-SGSpaceFortune {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -1330px;
+}
+.bg-SGSparta {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -1330px;
+}
+.bg-SGSuperStrike {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -1330px;
+}
+.bg-SGSuperTwister {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -1330px;
+}
+.bg-SGTheBigDeal {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1362px -1330px;
+}
+.bg-SGTheDeadEscape {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -0;
+}
+.bg-SGTheDragonCastle {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -190px;
+}
+.bg-SGTheKoiGate {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -380px;
+}
+.bg-SGTowerOfPizza {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -570px;
+}
+.bg-SGTreasureDiver {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -760px;
+}
+.bg-SGTreasureTomb {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -950px;
+}
+.bg-SGVikingsPlunder {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -1140px;
+}
+.bg-SGWeirdScience {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1589px -1330px;
+}
+.bg-SGWickedWitch {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -0 -1520px;
+}
+.bg-SGZeus {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -227px -1520px;
+}
+.bg-SGZeus2 {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -454px -1520px;
+}
+.bg-Sicbo {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -681px -1520px;
+}
+.bg-TensorBetter1Hand {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -908px -1520px;
+}
+.bg-TensorBetter5Hand {
+    width: 227px; height: 190px;
+    background: url('hb2.jpg?v2') -1135px -1520px;
+}
+.bg-TensorBetter50Hand {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v2') -227px -0;
+}
+
+.bg-TGThreeCardPoker {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') 0px -190px;
+}
+
+.bg-TGWar {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') 0 -5px;
+}
+
+.bg-TGDragonTiger {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') -455px -7px;
+}
+
+.bg-TensorBetter100Hand {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') -230px -175px;
+}
+
+.bg-TensorBetter10Hand {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') -454px -190px;
+}
+
+.bg-SGWaysOfFortune {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') -0 -380px;
+}
+.bg-SGEgyptianDreamsDeluxe {
+    width: 227px; height: 190px;
+    background: url('hb3.jpg?v3') -228px -380px;
+}
