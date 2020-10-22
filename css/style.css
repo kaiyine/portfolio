@@ -1,0 +1,40 @@
+.homebanner{
+	background: #fff center no-repeat;
+	height: 40vh;
+}
+.homebanner:after{
+	content: '';
+	display: block;
+	height: 90%;
+	width: 90%;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	border: #fff 15px solid;
+	transition: all .3s;
+	opacity: .5;
+}
+.homebanner:hover{
+	text-decoration: underline;
+}
+.homebanner:hover:after{
+	height: 70%;
+	width: 70%;
+	top: 15%;
+	left: 15%;
+	border: #fff 10px solid;
+	opacity: 1;
+}
+.home-1{
+	background-image: url(../images/home_1.jpg);
+	background-size: cover;
+}
+.home-2{
+	background-image: url(../images/home_1.jpg);
+	background-size: cover;
+}
+@media (min-width: 768px){
+	.homebanner{
+		height: 90vh;
+	}
+}
